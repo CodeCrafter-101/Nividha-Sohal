@@ -1,16 +1,4 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm <strong>Nividha Sohal</strong> 👋</h1>
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="500" alt="Coding Girl Animation" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00B8&center=true&vCenter=true&width=435&lines=Machine+Learning+Explorer;Deep+Learning+in+Progress...;Coding+Curious+%26+Creatively!;Solving+problems+with+Python;Kaggle+competitor+%7C+AI+enthusiast" alt="Typing Animation" />
-</p>
-
----
 
 ## 🧠 About Me
 
